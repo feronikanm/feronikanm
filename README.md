@@ -25,18 +25,18 @@ I'm interested in mobile application and web development.
 <h4>Connect with me:</h4>
 
 <a href="https://www.linkedin.com/in/feronikanm/" target="blank">
-  <img align="left" alt="tengku-belmiro" width="30px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" />
+  <img align="left" alt="feronikanm" width="30px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" />
 </a>
 <a href="https://www.instagram.com/feronikanm/" target="blank">
-  <img align="left" alt="@its_meerro" width="30px" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-512.png" />
+  <img align="left" alt="@feronikanm" width="30px" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-512.png" />
 </a>
 <a href="mailto:feronikanm@gmail.com" target="blank">
-  <img align="left" alt="tengku13elmiro" width="30px" src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/gmail-256.png" />
+  <img align="left" alt="feronikanm" width="30px" src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/gmail-256.png" />
 </a>
 <a href="https://medium.com/@feronikanm" target="blank">
-  <img align="left" alt="Miro" width="30px" src="https://cdn3.iconfinder.com/data/icons/social-media-black-white-2/512/BW_Medium_glyph_svg-512.png" />
+  <img align="left" alt="feronikanm" width="30px" src="https://cdn3.iconfinder.com/data/icons/social-media-black-white-2/512/BW_Medium_glyph_svg-512.png" />
 </a>
-<a href="https://dev.to/feronikanm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="aldhinoerman" height="30" width="40" />
+<a href="https://dev.to/feronikanm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="feronikanm" height="30" width="40" />
 </a>
 
 

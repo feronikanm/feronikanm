@@ -19,7 +19,6 @@ I'm interested in mobile application and web development.
 - 🎸 I like listening to music
 
 - 💬 [Ask me](https://github.com/feronikanm/feronikanm/issues) about anything
-<br/>
 
 <h4>Development Activities</h4>
 
@@ -33,8 +32,6 @@ I'm interested in mobile application and web development.
 <!--END_SECTION:waka-->
 <!-- </details> -->
 
-<br>
-<br>
 <br>
 <br>
 <br>

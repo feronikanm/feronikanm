@@ -22,22 +22,43 @@ I'm interested in mobile application and web development.
 - 💬 [Ask me](https://github.com/feronikanm/feronikanm/issues) about anything
 <br/>
 
-<h4>Connect with me:</h4>
+<h4>Development Activities</h4>
 
-<a href="https://www.linkedin.com/in/feronikanm/" target="blank">
-  <img align="left" alt="feronikanm" width="30px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" />
-</a>
-<a href="https://www.instagram.com/feronikanm/" target="blank">
-  <img align="left" alt="@feronikanm" width="30px" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-512.png" />
-</a>
-<a href="mailto:feronikanm@gmail.com" target="blank">
-  <img align="left" alt="feronikanm" width="30px" src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/gmail-256.png" />
-</a>
-<a href="https://medium.com/@feronikanm" target="blank">
-  <img align="left" alt="feronikanm" width="30px" src="https://cdn3.iconfinder.com/data/icons/social-media-black-white-2/512/BW_Medium_glyph_svg-512.png" />
-</a>
-<a href="https://dev.to/feronikanm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="feronikanm" height="30" width="40" />
-</a>
+<!-- <details> -->
+<!-- <summary>Development activities</summary> -->
+
+<!--START_SECTION:waka-->
+<!-- <br> -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=feronikanm&show_icons=true&locale=en&layout=compact" alt="feronikanm"/</p>
+<br>
+<!--END_SECTION:waka-->
+<!-- </details> -->
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+  <h4>Connect with me:</h4>
+
+  <a href="https://www.linkedin.com/in/feronikanm/" target="blank">
+    <img align="left" alt="feronikanm" width="30px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" />
+  </a>
+  <a href="https://www.instagram.com/feronikanm/" target="blank">
+    <img align="left" alt="@feronikanm" width="30px" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-512.png" />
+  </a>
+  <a href="mailto:feronikanm@gmail.com" target="blank">
+    <img align="left" alt="feronikanm" width="30px" src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/gmail-256.png" />
+  </a>
+  <a href="https://medium.com/@feronikanm" target="blank">
+    <img align="left" alt="feronikanm" width="30px" src="https://cdn3.iconfinder.com/data/icons/social-media-black-white-2/512/BW_Medium_glyph_svg-512.png" />
+  </a>
+  <a href="https://dev.to/feronikanm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="feronikanm" height="30" width="40" />
+  </a>
+
+
 
 
 <!--

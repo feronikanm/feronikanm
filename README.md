@@ -1,4 +1,4 @@
-## Hi there, I'm <a href="https://feronikanm.github.com/"> Fero! </a><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+# Hi there, I'm <a href="https://feronikanm.github.com/"> Fero! </a><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 
 I'm Feronika Nur Maghfiro, and you can call me Fero, I live in Probolinggo City. 

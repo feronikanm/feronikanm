@@ -10,6 +10,7 @@ I'm interested in mobile application and web development.
 
 <img align="right" alt="GIF" src="https://github.com/feronikanm/feronikanm/blob/main/8HMd.gif?raw=true" width="500" height="300" />
 
+<br>
 <h4>Talking about Personal Stuffs</h4>
 
 - 🌱 I'm currently learning everything related to mobile application development
@@ -32,6 +33,7 @@ I'm interested in mobile application and web development.
 <!--END_SECTION:waka-->
 <!-- </details> -->
 
+<br>
 <br>
 <br>
 <br>

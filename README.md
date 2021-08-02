@@ -20,7 +20,6 @@ I'm interested in mobile application and web development
 - 🎸 I like listening to music
 
 - 💬 [Ask me](https://github.com/feronikanm/feronikanm/issues) about anything
-
 <br/>
 
 <h4>Connect with me:</h4>

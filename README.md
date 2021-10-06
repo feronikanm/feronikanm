@@ -54,13 +54,13 @@ I'm interested in mobile application and web development.
     <img align="left" alt="feronikanm" width="30px" src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/gmail-256.png" />
   </a>
   <a href="https://play.google.com/store/apps/dev?id=5646792388346365755" target="blank">
-    <img align="left" alt="feronikanm"  width="40px"  src="https://img-premium.flaticon.com/png/512/3128/premium/3128279.png?token=exp=1633527200~hmac=15d2f825b9c938e1bcc5d9e8502c7a4c"/>
+    <img align="left" alt="feronikanm"  width="30px"  src="https://img-premium.flaticon.com/png/512/3128/premium/3128279.png?token=exp=1633527200~hmac=15d2f825b9c938e1bcc5d9e8502c7a4c"/>
   </a>
   <a href="https://medium.com/@feronikanm" target="blank">
     <img align="left" alt="feronikanm" width="30px" src="https://cdn3.iconfinder.com/data/icons/social-media-black-white-2/512/BW_Medium_glyph_svg-512.png" />
   </a>
   <a href="https://dev.to/feronikanm" target="blank">
-    <img align="left" alt="feronikanm" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg"/>
+    <img align="left" alt="feronikanm" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg"/>
   </a>
 
 

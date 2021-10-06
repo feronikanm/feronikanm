@@ -44,20 +44,20 @@ I'm interested in mobile application and web development.
 
   <h4>Connect with me:</h4>
 
+   <a href="mailto:feronikanm@gmail.com" target="blank">
+    <img align="left" alt="feronikanm" width="30px" src="https://brandeps.com/icon-download/G/Gmail-icon-vector-01.svg" />
+  </a>
   <a href="https://www.linkedin.com/in/feronikanm/" target="blank">
     <img align="left" alt="feronikanm" width="30px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" />
   </a>
   <a href="https://www.instagram.com/feronikanm/" target="blank">
     <img align="left" alt="@feronikanm" width="30px" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-512.png" />
   </a>
-  <a href="mailto:feronikanm@gmail.com" target="blank">
-    <img align="left" alt="feronikanm" width="30px" src="https://brandeps.com/icon-download/G/Gmail-icon-vector-01.svg" />
+  <a href="https://medium.com/@feronikanm" target="blank">
+    <img align="left" alt="feronikanm" width="30px" src="https://cdn3.iconfinder.com/data/icons/social-media-black-white-2/512/BW_Medium_glyph_svg-512.png" />
   </a>
   <a href="https://play.google.com/store/apps/dev?id=5646792388346365755" target="blank">
     <img align="left" alt="feronikanm"  width="30px"  src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Play_Arrow_logo.svg"/>
-  </a>
-  <a href="https://medium.com/@feronikanm" target="blank">
-    <img align="left" alt="feronikanm" width="30px" src="https://cdn3.iconfinder.com/data/icons/social-media-black-white-2/512/BW_Medium_glyph_svg-512.png" />
   </a>
   <a href="https://dev.to/feronikanm" target="blank">
     <img align="left" alt="feronikanm" width="30px" src="https://iconape.com/wp-content/files/hl/53010/png/devto.png"/>

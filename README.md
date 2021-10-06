@@ -58,7 +58,7 @@ I'm interested in mobile application and web development.
   </a>
   <a href="https://dev.to/feronikanm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="feronikanm" height="30" width="40" />
   </a>
-  <a href="https://play.google.com/store/apps/dev?id=5646792388346365755" target="blank"><img align="center" src=<img src="https://img.icons8.com/color/48/000000/google-play.png"/>" alt="feronikanm" height="30" width="40" />
+  <a href="https://play.google.com/store/apps/dev?id=5646792388346365755" target="blank"><img align="center" src="https://img-premium.flaticon.com/png/512/3128/premium/3128279.png?token=exp=1633527200~hmac=15d2f825b9c938e1bcc5d9e8502c7a4c" alt="feronikanm" height="30" width="40" />
   </a>
 
 

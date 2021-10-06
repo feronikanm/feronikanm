@@ -51,7 +51,7 @@ I'm interested in mobile application and web development.
     <img align="left" alt="@feronikanm" width="30px" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-512.png" />
   </a>
   <a href="mailto:feronikanm@gmail.com" target="blank">
-    <img align="left" alt="feronikanm" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
+    <img align="left" alt="feronikanm" width="30px" src="https://brandeps.com/icon-download/G/Gmail-icon-vector-01.svg" />
   </a>
   <a href="https://play.google.com/store/apps/dev?id=5646792388346365755" target="blank">
     <img align="left" alt="feronikanm"  width="30px"  src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Play_Arrow_logo.svg"/>

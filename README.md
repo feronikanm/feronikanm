@@ -15,9 +15,9 @@ I'm interested in mobile application and web development.
 
 - 🌱 I'm currently learning everything related to mobile application development
 
-- 👨🏽‍💻 I'm currently working in a cool place
+- 👨🏽‍💻 I'm trying to make a friendly design with nice color to my application
 
-- 🎸 I like listening to music
+- 📚🎸 I like reading a book or ebook and listening to music
 
 - 💬 [Ask me](https://github.com/feronikanm/feronikanm/issues) about anything
 
@@ -57,6 +57,8 @@ I'm interested in mobile application and web development.
     <img align="left" alt="feronikanm" width="30px" src="https://cdn3.iconfinder.com/data/icons/social-media-black-white-2/512/BW_Medium_glyph_svg-512.png" />
   </a>
   <a href="https://dev.to/feronikanm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="feronikanm" height="30" width="40" />
+  </a>
+  <a href="https://play.google.com/store/apps/dev?id=5646792388346365755" target="blank"><img align="center" src=https://www.flaticon.com/premium-icon/google-play_3128279?term=google&page=1&position=42&page=1&position=42&related_id=3128279&origin=tag" alt="feronikanm" height="30" width="40" />
   </a>
 
 

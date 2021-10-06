@@ -60,7 +60,7 @@ I'm interested in mobile application and web development.
     <img align="left" alt="feronikanm" width="30px" src="https://cdn3.iconfinder.com/data/icons/social-media-black-white-2/512/BW_Medium_glyph_svg-512.png" />
   </a>
   <a href="https://dev.to/feronikanm" target="blank">
-    <img align="left" alt="feronikanm" width="30px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--R9qwOwpC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/78hs31fax49uwy6kbxyw.png"/>
+    <img align="left" alt="feronikanm" width="30px" src="https://iconape.com/wp-content/files/hl/53010/png/devto.png"/>
   </a>
 
 

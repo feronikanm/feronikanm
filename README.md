@@ -2,7 +2,7 @@
 
 
 I'm Feronika Nur Maghfiro, and you can call me Fero, I live in Probolinggo City. 
-I'm a Informatics student at [University of National Development East Java](https://upnjatim.ac.id).
+I'm a Informatics student at [University of National Development East Java](https://www.upnjatim.ac.id/).
 I'm interested in mobile application and web development.
 <br>
 

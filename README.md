@@ -1,9 +1,7 @@
 # Hi there, I'm <a href="https://feronikanm.github.com/"> Fero! </a><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 
-I'm Feronika Nur Maghfiro, and you can call me Fero, I live in Probolinggo City. 
-I'm a Informatics student at [University of National Development East Java](https://www.upnjatim.ac.id/).
-I'm interested in mobile application and web development.
+I'm Feronika Nur Maghfiro from Probolinggo, East Java. I'm interested in mobile application natively with Kotlin, and always trying to deal with error.
 <br>
 
 ![](https://komarev.com/ghpvc/?username=feronikanm)

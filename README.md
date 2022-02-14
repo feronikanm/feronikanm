@@ -8,8 +8,6 @@ I'm Feronika Nur Maghfiro from Probolinggo, East Java. I'm interested in mobile 
 
 <img align="right" alt="GIF" src="https://github.com/feronikanm/feronikanm/blob/main/8HMd.gif?raw=true" width="500" height="300" />
 
-<br>
-<br>
 <h4>Talking about Personal Stuffs</h4>
 
 - 🌱 I'm currently learning everything related to mobile application development

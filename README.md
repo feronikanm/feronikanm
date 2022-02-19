@@ -26,11 +26,11 @@ I'm Feronika Nur Maghfiro from Probolinggo, East Java. I'm interested in mobile 
 <!--START_SECTION:waka-->
 <!-- <br> -->
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=feronikanm&show_icons=true&locale=en&layout=compact" alt="feronikanm"/</p>-->
-<br>
 <!--END_SECTION:waka-->
 <!-- </details> -->
 
 <!--<br>
+<br>
 <br>
 <br>
 <br>

@@ -6,7 +6,7 @@ I'm Feronika Nur Maghfiro from Probolinggo, East Java. I'm interested in mobile 
 
 ![](https://komarev.com/ghpvc/?username=feronikanm)
 
-<img align="right" alt="GIF" src="https://github.com/feronikanm/feronikanm/blob/main/8HMd.gif?raw=true" width="500" height="280" />
+<!--<img align="right" alt="GIF" src="https://github.com/feronikanm/feronikanm/blob/main/8HMd.gif?raw=true" width="500" height="280" />-->
 
 <h4>Talking about Personal Stuffs</h4>
 
@@ -25,7 +25,7 @@ I'm Feronika Nur Maghfiro from Probolinggo, East Java. I'm interested in mobile 
 
 <!--START_SECTION:waka-->
 <!-- <br> -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=feronikanm&show_icons=true&locale=en&layout=compact" alt="feronikanm"/</p>
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=feronikanm&show_icons=true&locale=en&layout=compact" alt="feronikanm"/</p>-->
 <br>
 <!--END_SECTION:waka-->
 <!-- </details> -->

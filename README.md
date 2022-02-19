@@ -18,7 +18,7 @@ I'm Feronika Nur Maghfiro from Probolinggo, East Java. I'm interested in mobile 
 
 - 💬 [Ask me](https://github.com/feronikanm/feronikanm/issues) about anything
 
-<h4>Development Activities</h4>
+<!--<h4>Development Activities</h4>-->
 
 <!-- <details> -->
 <!-- <summary>Development activities</summary> -->
@@ -30,14 +30,14 @@ I'm Feronika Nur Maghfiro from Probolinggo, East Java. I'm interested in mobile 
 <!--END_SECTION:waka-->
 <!-- </details> -->
 
+<!--<br>
 <br>
 <br>
 <br>
 <br>
 <br>
 <br>
-<br>
-<br>
+<br>-->
 
   <h4>Connect with me:</h4>
 

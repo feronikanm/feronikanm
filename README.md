@@ -1,7 +1,7 @@
 # Hi there, I'm <a href="https://feronikanm.github.com/"> Fero! </a><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 
-I'm Feronika Nur Maghfiro from Probolinggo, East Java. I'm interested in mobile application development, natively with Kotlin, and always trying to deal with error.
+I'm Feronika Nur Maghfiro from Probolinggo, East Java. I'm interested in mobile application development, natively with Kotlin, and still trying to deal with error.
 <br>
 
 <!--![](https://komarev.com/ghpvc/?username=feronikanm)
@@ -14,7 +14,7 @@ I'm Feronika Nur Maghfiro from Probolinggo, East Java. I'm interested in mobile 
 
 - 👨🏽‍💻 I'm trying to make a friendly design with nice color to my application
 
-- 📚🎸 I like reading a book or ebook and listening to music
+- 📚🎧 I like reading a book or ebook and listening to music
 
 - 💬 [Ask me](https://github.com/feronikanm/feronikanm/issues) about anything
 

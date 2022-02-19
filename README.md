@@ -4,9 +4,9 @@
 I'm Feronika Nur Maghfiro from Probolinggo, East Java. I'm interested in mobile application development, natively with Kotlin, and always trying to deal with error.
 <br>
 
-![](https://komarev.com/ghpvc/?username=feronikanm)
+<!--![](https://komarev.com/ghpvc/?username=feronikanm)
 
-<!--<img align="right" alt="GIF" src="https://github.com/feronikanm/feronikanm/blob/main/8HMd.gif?raw=true" width="500" height="280" />-->
+<img align="right" alt="GIF" src="https://github.com/feronikanm/feronikanm/blob/main/8HMd.gif?raw=true" width="500" height="280" />-->
 
 <h4>Talking about Personal Stuffs</h4>
 

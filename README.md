@@ -1,4 +1,4 @@
-# Hi there, I'm <a href="https://feronikanm.github.com/"> Fero! </a>
+# Hi there, I'm <a href="https://github.com/feronikanm"> Fero! </a>
 
 <!--<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">-->
 

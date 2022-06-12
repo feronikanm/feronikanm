@@ -1,4 +1,6 @@
-# Hi there, I'm <a href="https://feronikanm.github.com/"> Fero! </a><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+# Hi there, I'm <a href="https://feronikanm.github.com/"> Fero! 
+
+<!--</a><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">-->
 
 
 I'm Feronika Nur Maghfiro from Probolinggo, East Java. I'm interested in mobile application development, natively with Kotlin, and still trying to deal with error.

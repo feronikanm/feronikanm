@@ -6,7 +6,7 @@ I'm Feronika Nur Maghfiro from Probolinggo, East Java. I'm interested in mobile 
 
 <!--![](https://komarev.com/ghpvc/?username=feronikanm)-->
 
-<!-- <img align="right" alt="GIF" src="https://github.com/feronikanm/feronikanm/blob/main/peach-and.gif?raw=true" width="140" height="150" />-->
+<!--! <img align="right" alt="GIF" src="https://github.com/feronikanm/feronikanm/blob/main/peach-and.gif?raw=true" width="140" height="150" />-->
 
 <h4>Talking about Personal Stuffs</h4>
 

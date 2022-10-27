@@ -5,6 +5,7 @@
 <br>
 <!-- I'm Feronika Nur Maghfiro from Probolinggo, East Java. I'm interested in mobile application development, natively with Kotlin, and still trying to deal with error. -->
 I'm Feronika Nur Maghfiro from Probolinggo, Indonesia. 
+<br>
 It's my pleasure to connect and share with you.
 <br>
 <!--![](https://komarev.com/ghpvc/?username=feronikanm)-->

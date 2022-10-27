@@ -43,7 +43,7 @@ I'm Feronika Nur Maghfiro from Probolinggo, East Java, Indonesia.
 <br>
 <br>-->
 
-  <h4>Connect with me:</h4>
+<!--   <h4>Connect with me:</h4> -->
 
    <a href="mailto:feronikanm@gmail.com" target="blank">
     <img align="left" alt="feronikanm" width="30px" src="https://brandeps.com/icon-download/G/Gmail-icon-vector-01.svg" />

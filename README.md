@@ -2,7 +2,7 @@
 
 <!--<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">-->
 
-
+<br>
 <!-- I'm Feronika Nur Maghfiro from Probolinggo, East Java. I'm interested in mobile application development, natively with Kotlin, and still trying to deal with error. -->
 I'm Feronika Nur Maghfiro from Probolinggo, East Java, Indonesia.
 <br>
@@ -42,6 +42,7 @@ I'm Feronika Nur Maghfiro from Probolinggo, East Java, Indonesia.
 <br>
 <br>
 <br>-->
+<br>
 
 <!--   <h4>Connect with me:</h4> -->
 
